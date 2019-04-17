@@ -10,7 +10,7 @@ For a longer and more in-depth read, take a look at the Wikipedia page:
 
 For anyone who wants to help work on the story with me (working out staging and decision trees), this should be required reading.
 
-For anyone interested who also has a lot of time to kill, there are the two main primary sources in /articles/primary_sources
+For anyone interested who also has a lot of time to kill, there are the two main primary soures in the resources folder.
 
 Pelsaert's journal is the most important source on this whole event, it's the personal log of the main guy who was in charge of the whole expedition.
 
