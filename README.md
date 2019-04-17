@@ -2,7 +2,7 @@
 
 ## Articles
 
-I wrote a summary of the event for the projet write-up in assignment 2 but later edited it out to get the word count down. I've added it to the main directory, _The Batavia Mutiny.docx_
+I wrote a summary of the event for the project write-up in assignment 2 but later edited it out to get the word count down. I've added it to the main directory, _The Batavia Mutiny.docx_
 
 For a longer and more in-depth read, take a look at the Wikipedia page:
 
