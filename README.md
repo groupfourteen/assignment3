@@ -6,7 +6,7 @@ I wrote a summary of the event for the projet write-up in assignment 2 but later
 
 For a longer and more in-depth read, take a look at the Wikipedia page:
 
-[https://en.wikipedia.org/wiki/Batavia_(ship)](Wikipedia - Batavia_(ship))
+[Wikipedia - Batavia_(ship)](https://en.wikipedia.org/wiki/Batavia_(ship))
 
 For anyone who wants to help work on the story with me (working out staging and decision trees), this should be required reading.
 
@@ -18,7 +18,7 @@ The other text, _Ongeluckige Voyagie_, was written 18 years after the event so i
 
 Another option is this 1897 translation of _Ongeluckige Voyagie_, which was the first account of the mutiny in English:
 
-[https://en.wikisource.org/wiki/The_Western_Mail/24_December_1897/The_Abrolhos_tragedy](The Western Main 24 December 1987, The Abrolhos Tragedy))
+[The Western Main 24 December 1987, The Abrolhos Tragedy](https://en.wikisource.org/wiki/The_Western_Mail/24_December_1897/The_Abrolhos_tragedy)
 
 ---
 
@@ -36,4 +36,4 @@ In the images folder there is a folder of photos taken by some tourist on their 
 
 Here's an interactive guide/game of Beacon Island shortly before the fishing community there were moved away to protect the grave sites. It's a 1:1 scale walking simulator and gives a nice feel of the scale of the island which would be the primary location of Act 2 of the game. It includes the grave sites currently discovered:
 
-[https://yadi.sk/d/1IMkiH8yrYi3vQ](Virtual Beacon Island)
+[Virtual Beacon Island](https://yadi.sk/d/1IMkiH8yrYi3vQ)
