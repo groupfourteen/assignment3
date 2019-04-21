@@ -1,3 +1,8 @@
+# UPDATE
+## 21 April 2019
+
+I've added project_description.docx. This is a Word file with a template for our main project write-up, divided into sections with expected lengths, and explanations taken from the assignment instructions for easy reference. Anyone can add to this as we go along.
+
 # assignment3
 
 ## Articles
